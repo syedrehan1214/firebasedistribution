@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579108048242",
+    "project_id": "aladin-b3aef",
+    "storage_bucket": "aladin-b3aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579108048242:android:8fd8ffff9158efc9aca1eb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_distribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579108048242-uq0gf03706e3raalaboig9lol31bqb7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0lAKu1innYszRd-c0D8xteAxJleaZFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579108048242-uq0gf03706e3raalaboig9lol31bqb7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
